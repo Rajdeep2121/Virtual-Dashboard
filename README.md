@@ -1,3 +1,5 @@
+# **Virtual Dashboard**
+
 This design is a virtual dashboard for a car.
 There is a speedometer gauge for monitoring the speed. The speed range for the car is 0-220 km/h. Also there is an input bar which takes input of maximum 3 digits and when 'Enter' is pressed or the 'Accelerator' button is clicked, the speed is rendered on the speedometer gauge in real time. A background has been added of a car dashboard in the background.
 
