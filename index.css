@@ -1,0 +1,36 @@
+.form-control{
+    /* max-width: 500px; */
+    margin-left: 185px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    width: 130px;
+    /* display: inline-block; */
+}
+.heading{
+    text-align: left;
+}
+.instr{
+    text-align: left;
+}
+body{
+    /* background-color: black; */
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    background-image: url("pic.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+input[type="button"]{
+    margin-top: 10px;
+    margin-left: 195px;
+    float: left;
+    /* display: inline-block; */
+}
+#gauge_div{
+    /* display: inline-block; */
+    margin-left: 150px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
